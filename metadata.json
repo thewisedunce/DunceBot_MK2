@@ -1,0 +1,6 @@
+{
+  "name": "DunceBot Quant Suite - Kalshi 15M Trading Terminal",
+  "description": "High-Frequency Statistical Directional Call-Out & Execution Engine Terminal for Kalshi 15-Minute Markets (BTC, SOL, XRP) with secure local secret onboarding and key management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
